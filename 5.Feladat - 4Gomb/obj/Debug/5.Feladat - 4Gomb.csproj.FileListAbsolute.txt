@@ -1,0 +1,9 @@
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\5.Feladat - 4Gomb\bin\Debug\5.Feladat - 4Gomb.exe.config
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\5.Feladat - 4Gomb\bin\Debug\5.Feladat - 4Gomb.exe
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\5.Feladat - 4Gomb\bin\Debug\5.Feladat - 4Gomb.pdb
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\5.Feladat - 4Gomb\obj\Debug\5.Feladat - 4Gomb.csprojResolveAssemblyReference.cache
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\5.Feladat - 4Gomb\obj\Debug\_5.Feladat___4Gomb.Form1.resources
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\5.Feladat - 4Gomb\obj\Debug\_5.Feladat___4Gomb.Properties.Resources.resources
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\5.Feladat - 4Gomb\obj\Debug\5.Feladat - 4Gomb.csproj.GenerateResource.Cache
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\5.Feladat - 4Gomb\obj\Debug\5.Feladat - 4Gomb.exe
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\5.Feladat - 4Gomb\obj\Debug\5.Feladat - 4Gomb.pdb

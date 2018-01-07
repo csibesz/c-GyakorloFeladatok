@@ -1,0 +1,9 @@
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\3.Feladat - SzovegSzerkeszto\bin\Debug\3.Feladat - SzovegSzerkeszto.exe.config
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\3.Feladat - SzovegSzerkeszto\bin\Debug\3.Feladat - SzovegSzerkeszto.exe
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\3.Feladat - SzovegSzerkeszto\bin\Debug\3.Feladat - SzovegSzerkeszto.pdb
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\3.Feladat - SzovegSzerkeszto\obj\Debug\3.Feladat - SzovegSzerkeszto.csprojResolveAssemblyReference.cache
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\3.Feladat - SzovegSzerkeszto\obj\Debug\_3.Feladat___SzovegSzerkeszto.Form1.resources
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\3.Feladat - SzovegSzerkeszto\obj\Debug\_3.Feladat___SzovegSzerkeszto.Properties.Resources.resources
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\3.Feladat - SzovegSzerkeszto\obj\Debug\3.Feladat - SzovegSzerkeszto.csproj.GenerateResource.Cache
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\3.Feladat - SzovegSzerkeszto\obj\Debug\3.Feladat - SzovegSzerkeszto.exe
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\3.Feladat - SzovegSzerkeszto\obj\Debug\3.Feladat - SzovegSzerkeszto.pdb

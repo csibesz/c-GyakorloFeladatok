@@ -1,0 +1,9 @@
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\1.Feladat - SzovegMasolo\bin\Debug\1.Feladat - SzovegMasolo.exe.config
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\1.Feladat - SzovegMasolo\bin\Debug\1.Feladat - SzovegMasolo.exe
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\1.Feladat - SzovegMasolo\bin\Debug\1.Feladat - SzovegMasolo.pdb
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\1.Feladat - SzovegMasolo\obj\Debug\1.Feladat - SzovegMasolo.csprojResolveAssemblyReference.cache
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\1.Feladat - SzovegMasolo\obj\Debug\_1.Feladat___SzovegMasolo.Form1.resources
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\1.Feladat - SzovegMasolo\obj\Debug\_1.Feladat___SzovegMasolo.Properties.Resources.resources
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\1.Feladat - SzovegMasolo\obj\Debug\1.Feladat - SzovegMasolo.csproj.GenerateResource.Cache
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\1.Feladat - SzovegMasolo\obj\Debug\1.Feladat - SzovegMasolo.exe
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\1.Feladat - SzovegMasolo\obj\Debug\1.Feladat - SzovegMasolo.pdb

@@ -1,0 +1,9 @@
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\2.Feladat - SzamokDialogus\bin\Debug\2.Feladat - SzamokDialogus.exe.config
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\2.Feladat - SzamokDialogus\bin\Debug\2.Feladat - SzamokDialogus.exe
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\2.Feladat - SzamokDialogus\bin\Debug\2.Feladat - SzamokDialogus.pdb
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\2.Feladat - SzamokDialogus\obj\Debug\2.Feladat - SzamokDialogus.csprojResolveAssemblyReference.cache
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\2.Feladat - SzamokDialogus\obj\Debug\_2.Feladat___SzamokDialogus.Form1.resources
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\2.Feladat - SzamokDialogus\obj\Debug\_2.Feladat___SzamokDialogus.Properties.Resources.resources
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\2.Feladat - SzamokDialogus\obj\Debug\2.Feladat - SzamokDialogus.csproj.GenerateResource.Cache
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\2.Feladat - SzamokDialogus\obj\Debug\2.Feladat - SzamokDialogus.exe
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\2.Feladat - SzamokDialogus\obj\Debug\2.Feladat - SzamokDialogus.pdb

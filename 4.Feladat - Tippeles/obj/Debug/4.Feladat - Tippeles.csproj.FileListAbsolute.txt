@@ -1,0 +1,9 @@
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\4.Feladat - Tippeles\bin\Debug\4.Feladat - Tippeles.exe.config
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\4.Feladat - Tippeles\bin\Debug\4.Feladat - Tippeles.exe
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\4.Feladat - Tippeles\bin\Debug\4.Feladat - Tippeles.pdb
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\4.Feladat - Tippeles\obj\Debug\4.Feladat - Tippeles.csprojResolveAssemblyReference.cache
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\4.Feladat - Tippeles\obj\Debug\_4.Feladat___Tippeles.Form1.resources
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\4.Feladat - Tippeles\obj\Debug\_4.Feladat___Tippeles.Properties.Resources.resources
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\4.Feladat - Tippeles\obj\Debug\4.Feladat - Tippeles.csproj.GenerateResource.Cache
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\4.Feladat - Tippeles\obj\Debug\4.Feladat - Tippeles.exe
+C:\Users\feher.robert\Desktop\SzoftverFejleszto0618\4.Feladat - Tippeles\obj\Debug\4.Feladat - Tippeles.pdb
