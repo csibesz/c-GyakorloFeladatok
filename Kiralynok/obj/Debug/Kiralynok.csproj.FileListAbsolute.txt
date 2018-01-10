@@ -1,0 +1,7 @@
+E:\Github\c-GyakorloFeladatok\Kiralynok\bin\Debug\Kiralynok.exe.config
+E:\Github\c-GyakorloFeladatok\Kiralynok\bin\Debug\Kiralynok.exe
+E:\Github\c-GyakorloFeladatok\Kiralynok\bin\Debug\Kiralynok.pdb
+E:\Github\c-GyakorloFeladatok\Kiralynok\obj\Debug\Kiralynok.csprojResolveAssemblyReference.cache
+E:\Github\c-GyakorloFeladatok\Kiralynok\obj\Debug\Kiralynok.csproj.CoreCompileInputs.cache
+E:\Github\c-GyakorloFeladatok\Kiralynok\obj\Debug\Kiralynok.exe
+E:\Github\c-GyakorloFeladatok\Kiralynok\obj\Debug\Kiralynok.pdb

@@ -8,3 +8,14 @@ C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\obj\Debug\ABCRaktar.UjTer
 C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\obj\Debug\ABCRaktar.csproj.GenerateResource.Cache
 C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\obj\Debug\ABCRaktar.exe
 C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\obj\Debug\ABCRaktar.pdb
+E:\Github\c-GyakorloFeladatok\ABCRaktar\bin\Debug\ABCRaktar.exe.config
+E:\Github\c-GyakorloFeladatok\ABCRaktar\bin\Debug\ABCRaktar.exe
+E:\Github\c-GyakorloFeladatok\ABCRaktar\bin\Debug\ABCRaktar.pdb
+E:\Github\c-GyakorloFeladatok\ABCRaktar\obj\Debug\ABCRaktar.csprojResolveAssemblyReference.cache
+E:\Github\c-GyakorloFeladatok\ABCRaktar\obj\Debug\ABCRaktar.Form1.resources
+E:\Github\c-GyakorloFeladatok\ABCRaktar\obj\Debug\ABCRaktar.Properties.Resources.resources
+E:\Github\c-GyakorloFeladatok\ABCRaktar\obj\Debug\ABCRaktar.UjTermek.resources
+E:\Github\c-GyakorloFeladatok\ABCRaktar\obj\Debug\ABCRaktar.csproj.GenerateResource.Cache
+E:\Github\c-GyakorloFeladatok\ABCRaktar\obj\Debug\ABCRaktar.csproj.CoreCompileInputs.cache
+E:\Github\c-GyakorloFeladatok\ABCRaktar\obj\Debug\ABCRaktar.exe
+E:\Github\c-GyakorloFeladatok\ABCRaktar\obj\Debug\ABCRaktar.pdb
