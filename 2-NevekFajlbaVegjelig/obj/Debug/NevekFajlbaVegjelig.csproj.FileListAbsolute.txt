@@ -1,0 +1,5 @@
+C:\Users\feher.robert\Desktop\progalap\20170121\NevekFajlbaVegjelig\bin\Debug\NevekFajlbaVegjelig.exe.config
+C:\Users\feher.robert\Desktop\progalap\20170121\NevekFajlbaVegjelig\bin\Debug\NevekFajlbaVegjelig.exe
+C:\Users\feher.robert\Desktop\progalap\20170121\NevekFajlbaVegjelig\bin\Debug\NevekFajlbaVegjelig.pdb
+C:\Users\feher.robert\Desktop\progalap\20170121\NevekFajlbaVegjelig\obj\Debug\NevekFajlbaVegjelig.exe
+C:\Users\feher.robert\Desktop\progalap\20170121\NevekFajlbaVegjelig\obj\Debug\NevekFajlbaVegjelig.pdb

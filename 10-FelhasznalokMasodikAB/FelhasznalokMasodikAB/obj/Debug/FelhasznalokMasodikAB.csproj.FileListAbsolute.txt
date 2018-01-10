@@ -1,0 +1,12 @@
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\bin\Debug\FelhasznalokMasodikAB.exe.config
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\bin\Debug\FelhasznalokMasodik.mdf
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\bin\Debug\FelhasznalokMasodik_log.ldf
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\bin\Debug\FelhasznalokMasodikAB.exe
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\bin\Debug\FelhasznalokMasodikAB.pdb
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\obj\Debug\FelhasznalokMasodikAB.csprojResolveAssemblyReference.cache
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\obj\Debug\FelhasznalokMasodikAB.BelepesFrm.resources
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\obj\Debug\FelhasznalokMasodikAB.Form1.resources
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\obj\Debug\FelhasznalokMasodikAB.Properties.Resources.resources
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\obj\Debug\FelhasznalokMasodikAB.csproj.GenerateResource.Cache
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\obj\Debug\FelhasznalokMasodikAB.exe
+C:\Users\feher.robert\Desktop\FelhasznalokMasodikAB\FelhasznalokMasodikAB\obj\Debug\FelhasznalokMasodikAB.pdb

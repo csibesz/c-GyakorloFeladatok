@@ -1,0 +1,6 @@
+C:\Users\feher.robert\Desktop\progalap\20170124\CSV\bin\Debug\CSV.exe.config
+C:\Users\feher.robert\Desktop\progalap\20170124\CSV\bin\Debug\CSV.exe
+C:\Users\feher.robert\Desktop\progalap\20170124\CSV\bin\Debug\CSV.pdb
+C:\Users\feher.robert\Desktop\progalap\20170124\CSV\obj\Debug\CSV.csprojResolveAssemblyReference.cache
+C:\Users\feher.robert\Desktop\progalap\20170124\CSV\obj\Debug\CSV.exe
+C:\Users\feher.robert\Desktop\progalap\20170124\CSV\obj\Debug\CSV.pdb

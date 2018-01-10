@@ -1,0 +1,5 @@
+C:\Users\feher.robert\Desktop\progalap\20170121\20170121\bin\Debug\20170121.exe.config
+C:\Users\feher.robert\Desktop\progalap\20170121\20170121\bin\Debug\20170121.exe
+C:\Users\feher.robert\Desktop\progalap\20170121\20170121\bin\Debug\20170121.pdb
+C:\Users\feher.robert\Desktop\progalap\20170121\20170121\obj\Debug\20170121.exe
+C:\Users\feher.robert\Desktop\progalap\20170121\20170121\obj\Debug\20170121.pdb

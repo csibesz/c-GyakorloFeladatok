@@ -1,0 +1,13 @@
+﻿4
+Mekk Elek
+2,4
+AN123456
+Teszt Elek
+3,5
+GF227744
+Gipsz Jakab
+4
+AG553392
+Besenyő Pista
+3,2
+AU773344

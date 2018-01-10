@@ -1,0 +1,6 @@
+C:\Users\feher.robert\Desktop\progalap\20170122\TanulokOOP\bin\Debug\TanulokOOP.exe.config
+C:\Users\feher.robert\Desktop\progalap\20170122\TanulokOOP\bin\Debug\TanulokOOP.exe
+C:\Users\feher.robert\Desktop\progalap\20170122\TanulokOOP\bin\Debug\TanulokOOP.pdb
+C:\Users\feher.robert\Desktop\progalap\20170122\TanulokOOP\obj\Debug\TanulokOOP.csprojResolveAssemblyReference.cache
+C:\Users\feher.robert\Desktop\progalap\20170122\TanulokOOP\obj\Debug\TanulokOOP.exe
+C:\Users\feher.robert\Desktop\progalap\20170122\TanulokOOP\obj\Debug\TanulokOOP.pdb

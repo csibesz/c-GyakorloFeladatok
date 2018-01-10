@@ -1,0 +1,10 @@
+C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\bin\Debug\ABCRaktar.exe.config
+C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\bin\Debug\ABCRaktar.exe
+C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\bin\Debug\ABCRaktar.pdb
+C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\obj\Debug\ABCRaktar.csprojResolveAssemblyReference.cache
+C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\obj\Debug\ABCRaktar.Form1.resources
+C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\obj\Debug\ABCRaktar.Properties.Resources.resources
+C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\obj\Debug\ABCRaktar.UjTermek.resources
+C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\obj\Debug\ABCRaktar.csproj.GenerateResource.Cache
+C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\obj\Debug\ABCRaktar.exe
+C:\Users\feher.robert\Desktop\0731\ABCRaktar\ABCRaktar\obj\Debug\ABCRaktar.pdb
