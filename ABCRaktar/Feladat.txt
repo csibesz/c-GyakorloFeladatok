@@ -1,0 +1,20 @@
+﻿						Abc alapszintű raktárkezelő program
+
+3 féle termékkategóriát kell tárolnunk
+	1. Tejtermékek
+		- Zsírtartalom
+		- Tejtermék típus (Tej, Vaj, Sajt, Egyéb)
+	2. Pékárú
+		- Tejles kiörlésű
+	3. Zöldség
+		- Zöldség, vagy gyümölcs
+
+Minden termékről tudjuk a következőket:
+	- Megnevezés
+	- Cikkszám
+	- Ár
+	- Darabszám
+
+Minden olyan termék, ami nem tartozik egy kategóriába sem, azt általános termékként tároljuk
+
+A programban, fel lehet vinni, és törölni, módosítani a termékeket, illetve lehet darabszámot csökkenteni az adott terméken

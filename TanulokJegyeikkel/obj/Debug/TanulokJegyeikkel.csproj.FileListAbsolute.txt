@@ -1,0 +1,10 @@
+C:\Users\feher.robert\Desktop\Szoft0702\TanulokJegyeikkel\TanulokJegyeikkel\bin\Debug\TanulokJegyeikkel.exe.config
+C:\Users\feher.robert\Desktop\Szoft0702\TanulokJegyeikkel\TanulokJegyeikkel\bin\Debug\TanulokJegyeikkel.exe
+C:\Users\feher.robert\Desktop\Szoft0702\TanulokJegyeikkel\TanulokJegyeikkel\bin\Debug\TanulokJegyeikkel.pdb
+C:\Users\feher.robert\Desktop\Szoft0702\TanulokJegyeikkel\TanulokJegyeikkel\obj\Debug\TanulokJegyeikkel.csprojResolveAssemblyReference.cache
+C:\Users\feher.robert\Desktop\Szoft0702\TanulokJegyeikkel\TanulokJegyeikkel\obj\Debug\TanulokJegyeikkel.Form1.resources
+C:\Users\feher.robert\Desktop\Szoft0702\TanulokJegyeikkel\TanulokJegyeikkel\obj\Debug\TanulokJegyeikkel.Properties.Resources.resources
+C:\Users\feher.robert\Desktop\Szoft0702\TanulokJegyeikkel\TanulokJegyeikkel\obj\Debug\TanulokJegyeikkel.UjTanulo.resources
+C:\Users\feher.robert\Desktop\Szoft0702\TanulokJegyeikkel\TanulokJegyeikkel\obj\Debug\TanulokJegyeikkel.csproj.GenerateResource.Cache
+C:\Users\feher.robert\Desktop\Szoft0702\TanulokJegyeikkel\TanulokJegyeikkel\obj\Debug\TanulokJegyeikkel.exe
+C:\Users\feher.robert\Desktop\Szoft0702\TanulokJegyeikkel\TanulokJegyeikkel\obj\Debug\TanulokJegyeikkel.pdb

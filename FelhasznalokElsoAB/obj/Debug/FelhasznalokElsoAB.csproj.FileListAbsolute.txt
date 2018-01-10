@@ -1,0 +1,12 @@
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\bin\Debug\FelhasznalokElsoAB.exe.config
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\bin\Debug\FelhasznalokElso.mdf
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\bin\Debug\FelhasznalokElso_log.ldf
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\bin\Debug\FelhasznalokElsoAB.exe
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\bin\Debug\FelhasznalokElsoAB.pdb
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\obj\Debug\FelhasznalokElsoAB.csprojResolveAssemblyReference.cache
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\obj\Debug\FelhasznalokElsoAB.Form1.resources
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\obj\Debug\FelhasznalokElsoAB.Properties.Resources.resources
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\obj\Debug\FelhasznalokElsoAB.csproj.GenerateResource.Cache
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\obj\Debug\FelhasznalokElsoAB.exe
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\obj\Debug\FelhasznalokElsoAB.pdb
+C:\Users\feher.robert\Desktop\FelhasznalokElsoAB\FelhasznalokElsoAB\obj\Debug\FelhasznalokElsoAB.UjFelhasznalo.resources
